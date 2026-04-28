@@ -15,7 +15,7 @@
 - `README.md` 헤더 렌더링 이슈 수정:
   - 이미지 태그 배치 방식 변경 (`<p align="center">` 사용).
   - URL 파라미터 최적화 (불필요한 파라미터 제거).
-- `README.md` 헤더 안정성 강화:
-  - 텍스트를 영문("Sitdory")으로 변경하여 인코딩 이슈 해결.
-  - `/api` 엔드포인트 및 `type=waving` 적용.
+- `README.md` 헤더 디자인 최종 고도화:
+  - 제목을 `jeiel85`, 설명을 `Happy Coding~`으로 변경.
+  - 제공된 고성능 파라미터(height=300, fontSize=90 등) 적용.
 - 원격 저장소 푸시 완료.
