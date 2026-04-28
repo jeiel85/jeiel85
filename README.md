@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sitory~&fontAlign=80&fontAlignY=40&color=gradient" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sitdory&fontAlign=80&fontAlignY=40&color=gradient" /></p>
 
 ## 🚀 활동 현황 (Activity Graph)
 <p align="center">
