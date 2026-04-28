@@ -7,7 +7,7 @@
   - `capsule-render`를 이용한 물결 효과 헤더 배너 추가.
   - `github-readme-activity-graph` (Activity Graph) 섹션 추가.
   - 기존 통계 카드들을 가독성 좋게 재배치 (가로 정렬 및 중앙 정렬).
-  - 방문자 수 카운터(`hits`) 추가.
+  - 방문자 수 카운터(`hits`) 추가 및 렌더링 이슈로 인한 제거.
   - 한국 시간대에 맞춰 `utcOffset=9` 설정.
 - `README.md` 헤더 디자인 변경:
   - `capsule-render`의 `soft` 타입 및 `fadeIn` 애니메이션 적용.
