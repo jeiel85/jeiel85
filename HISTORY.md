@@ -19,4 +19,6 @@
   - 제목을 `jeiel85`, 설명을 `Happy Coding~`으로 변경.
   - 제공된 고성능 파라미터(height=300, fontSize=90 등) 적용.
   - 텍스트 우측 정렬 적용 (`fontAlign=80`, `descAlign=80`).
+- 상세 통계 섹션 분리:
+  - `프로필 개요 (Profile Overview)`와 `활동 분석 (Activity Analysis)`으로 섹션 세분화.
 - 원격 저장소 푸시 완료.

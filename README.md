@@ -9,11 +9,14 @@
 
 ---
 
-## 📊 상세 통계 (Profile Details)
+## 👤 프로필 개요 (Profile Overview)
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeiel85&theme=github" />
 </p>
 
+---
+
+## 📈 활동 분석 (Activity Analysis)
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeiel85&theme=github" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=github&utcOffset=9" />
