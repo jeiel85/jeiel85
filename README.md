@@ -1,7 +1,8 @@
-# 안녕하세요, [이름]입니다! 👋
+# 안녕하세요, [씻돌이]입니다! 👋
 
-https://honzaap.github.io/GithubCity/?name=jeiel85&year=2026
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeiel85&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeiel85&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeiel85&theme=github)
 
-## 💻 Tech Stack
-* **Languages:** VB6, C#, Python
-* **Tools:** Android Studio, Scrcpy, Shizuku
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeiel85&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=github&utcOffset=8)
