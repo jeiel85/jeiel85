@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jeiel85&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Happy%20Coding~&descAlignY=51&descAlign=62" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jeiel85&fontSize=90&animation=fadeIn&fontAlign=80&fontAlignY=38&desc=Happy%20Coding~&descAlign=80&descAlignY=51" /></p>
 
 ## 🚀 활동 현황 (Activity Graph)
 <p align="center">
