@@ -1,11 +1,15 @@
-# <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=안녕하세요,%20씻돌이입니다!&fontSize=70" />
+# <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=안녕하세요,%20씻돌이입니다!&fontSize=70&animation=fadeIn&fontAlignY=40" />
 
-### 🚀 활동 현황 (Activity Graph)
-[![씻돌이's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeiel85&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 활동 현황 (Activity Graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeiel85&theme=react-dark" width="100%" />
+  </a>
+</p>
 
 ---
 
-### 📊 상세 통계 (Profile Details)
+## 📊 상세 통계 (Profile Details)
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeiel85&theme=github" />
 </p>
@@ -17,7 +21,7 @@
 
 ---
 
-### 🛠 언어 및 사용 도구 (Languages & Repos)
+## 🛠 언어 및 사용 도구 (Languages & Repos)
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeiel85&theme=github" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeiel85&theme=github" />
