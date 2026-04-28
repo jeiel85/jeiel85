@@ -21,4 +21,6 @@
   - 텍스트 우측 정렬 적용 (`fontAlign=80`, `descAlign=80`).
 - 상세 통계 섹션 분리:
   - `프로필 개요 (Profile Overview)`와 `활동 분석 (Activity Analysis)`으로 섹션 세분화.
+- 하단 참고 레포지토리(References) 링크 추가:
+  - `capsule-render`, `activity-graph`, `summary-cards` 링크 우측 하단 배치.
 - 원격 저장소 푸시 완료.
