@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=안녕하세요%20씻돌이입니다!&fontSize=70&animation=fadeIn" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sitory~&fontAlign=80&fontAlignY=40&color=gradient" /></p>
 
 ## 🚀 활동 현황 (Activity Graph)
 <p align="center">
