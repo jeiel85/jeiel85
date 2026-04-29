@@ -1,6 +1,5 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jeiel85&fontSize=90&animation=fadeIn&fontAlign=80&fontAlignY=38&desc=Happy%20Coding~&descAlign=80&descAlignY=51" /></p>
 
-## 🏷️ 저는 이런 사람입니다 
 <p align="center">
   <img src="https://img.shields.io/badge/40대-아재개발자-FF6B35?style=for-the-badge" />
   &nbsp;
