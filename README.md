@@ -12,6 +12,19 @@
   <img src="https://img.shields.io/badge/예수님을%20믿는-크리스챤-C0392B?style=for-the-badge" />
 </p>
 
+## 📱 App Portfolio
+
+<p align="center">
+  <a href="https://jeiel85.github.io">
+    <img src="https://img.shields.io/badge/📱_App_Portfolio-View_All_Apps-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="App Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Android 앱 포트폴리오 — 매일 자동 업데이트</sub>
+</p>
+
+---
 ## 🚀 활동 현황 (Activity Graph)
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
