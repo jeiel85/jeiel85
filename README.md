@@ -3,11 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=260&section=header&text=jeiel85&fontSize=82&animation=fadeIn&fontAlign=80&fontAlignY=38&desc=Happy%20Vibe%20Coding~&descAlign=80&descAlignY=53" width="100%" alt="jeiel85 GitHub profile header" />
 
 <p>
-  <img src="https://img.shields.io/badge/40대-아재개발자-FF6B35?style=for-the-badge" alt="40대 아재개발자" />
-  <img src="https://img.shields.io/badge/두%20아들-육아중인%20아빠-4A90D9?style=for-the-badge" alt="두 아들 육아중인 아빠" />
-  <img src="https://img.shields.io/badge/9to6-직장인-17A589?style=for-the-badge" alt="9to6 직장인" />
-  <img src="https://img.shields.io/badge/개발자-바이브코더-8E44AD?style=for-the-badge" alt="개발자 바이브코더" />
   <img src="https://img.shields.io/badge/예수님을%20믿는-크리스챤-C0392B?style=for-the-badge" alt="예수님을 믿는 크리스챤" />
+  <img src="https://img.shields.io/badge/두%20아들-육아중인%20아빠-4A90D9?style=for-the-badge" alt="두 아들 육아중인 아빠" />
+  <img src="https://img.shields.io/badge/개발자-바이브코더-8E44AD?style=for-the-badge" alt="개발자 바이브코더" />
 </p>
 
 </div>
@@ -24,17 +22,16 @@
 
 </div>
 
----
+<br />
 
-## 🔭 지금 집중하는 것
+<div align="center">
 
-- 프라이버시를 우선하는 Android 앱과 실용적인 데스크톱 도구를 만들고 있어요.
-- Kotlin, Compose, C#, Flutter, Godot, 그리고 AI 코딩 에이전트를 다뤄요.
-- 짧게 만들고, 자주 배포하고, 쓸모 있게 다듬습니다.
+프라이버시를 우선하는 Android 앱과 실용적인 데스크톱 도구를 만듭니다.<br />
+Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 
----
+</div>
 
-## 📊 GitHub Overview
+<br />
 
 <div align="center">
 
@@ -52,9 +49,7 @@
 
 </div>
 
----
-
-## 🚀 활동 그래프
+<br />
 
 <div align="center">
 
@@ -66,9 +61,7 @@
 
 </div>
 
----
-
-## 🔥 연속 기록
+<br />
 
 <div align="center">
 
@@ -80,9 +73,7 @@
 
 </div>
 
----
-
-## 🐍 잔디먹는 뱀
+<br />
 
 <div align="center">
 
@@ -94,32 +85,7 @@
 
 </div>
 
----
-
-<details>
-<summary><strong>More GitHub Analytics</strong></summary>
-
 <br />
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeiel85&theme=github" alt="jeiel85 profile details" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeiel85&theme=github" alt="jeiel85 GitHub activity statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=github&utcOffset=9" alt="jeiel85 productive coding time" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeiel85&theme=github" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeiel85&theme=github" alt="Most committed languages" />
-
-</div>
-
-</details>
-
----
 
 <div align="center">
 
