@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=260&section=header&text=jeiel85&fontSize=82&animation=fadeIn&fontAlign=80&fontAlignY=38&desc=Happy%20Vibe%20Coding~&descAlign=80&descAlignY=53" width="100%" alt="jeiel85 GitHub profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=260&section=header&text=jeiel85&fontSize=82&animation=fadeIn&fontAlign=80&fontAlignY=38&desc=Faith%20%C2%B7%20Family%20%C2%B7%20Code&descAlign=80&descAlignY=53" width="100%" alt="jeiel85 GitHub profile header" />
 
 <p>
   <img src="https://img.shields.io/badge/예수님을%20믿는-크리스챤-C0392B?style=for-the-badge" alt="예수님을 믿는 크리스챤" />
