@@ -35,17 +35,7 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&locale=kr" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=24292F&locale=kr" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&locale=kr" height="180" alt="jeiel85 GitHub statistics" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel85&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9&locale=kr" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel85&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=24292F&locale=kr" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiel85&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9&locale=kr" height="180" alt="Most used languages across jeiel85 repositories" />
-</picture>
+<img src="https://raw.githubusercontent.com/jeiel85/jeiel85/metrics/metrics.svg" width="100%" alt="jeiel85 GitHub metrics: stats, languages, and contribution calendar" />
 
 </div>
 
