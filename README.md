@@ -91,26 +91,11 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 
 </div>
 
-
 <br />
 
 <div align="center">
 
-<sub>My Pokémon</sub>
 
-<br />
-
-<img src="https://github-profile-toolkit.vercel.app/api/pokemon?user=jeiel85&gen=gen1&starter=bulbasaur" alt="jeiel85's starter Pokemon: Bulbasaur" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<sub>Building useful things, one commit at a time.</sub>
-
-<br /><br />
 
 <a href="https://github.com/jeiel85">
   <img src="https://komarev.com/ghpvc/?username=jeiel85&color=8B5CF6&style=flat-square&label=Profile+Views" alt="jeiel85 profile views" />
