@@ -35,7 +35,7 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,csharp,godot,rust,typescript,javascript,python,nim,elixir,html,css,powershell,git&perline=8" alt="jeiel85 tech stack: Kotlin, Android Studio, Dart, Flutter, C#, Godot, Rust, TypeScript, JavaScript, Python, Nim, Elixir, HTML, CSS, PowerShell, Git" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,c,godot,rust,typescript,javascript,python,nim,elixir,html,css,powershell,git&perline=8" alt="jeiel85 tech stack: Kotlin, Android Studio, Dart, Flutter, C, Godot, Rust, TypeScript, JavaScript, Python, Nim, Elixir, HTML, CSS, PowerShell, Git" />
 
 </div>
 
