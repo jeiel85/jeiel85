@@ -35,6 +35,26 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,csharp,godot,rust,typescript,javascript,python,nim,elixir,html,css,powershell,git&perline=8" alt="jeiel85 tech stack: Kotlin, Android Studio, Dart, Flutter, C#, Godot, Rust, TypeScript, JavaScript, Python, Nim, Elixir, HTML, CSS, PowerShell, Git" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=24292F" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="jeiel85 GitHub stats and rank" />
+</picture>
+
+</div>
+
+<br />
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeiel85&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=C9D1D9&area=true&hide_border=true&title_color=C9D1D9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeiel85&bg_color=FFFFFF&color=24292F&line=8B5CF6&point=24292F&area=true&hide_border=true&title_color=24292F" />
@@ -64,6 +84,18 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeiel85/jeiel85/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/jeiel85/jeiel85/output/github-snake.svg" alt="jeiel85 contribution snake animation" />
 </picture>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>My Pokémon</sub>
+
+<br />
+
+<img src="https://github-profile-toolkit.vercel.app/api/pokemon?user=jeiel85&gen=gen1&starter=bulbasaur" alt="jeiel85's starter Pokemon: Bulbasaur" />
 
 </div>
 
