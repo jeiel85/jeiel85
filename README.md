@@ -44,18 +44,6 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=24292F" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="jeiel85 GitHub stats and rank" />
-</picture>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" />
   <img src="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="jeiel85 GitHub contribution streak" />
