@@ -72,9 +72,9 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=tokyonight&utcOffset=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=github_light&utcOffset=9" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=tokyonight&utcOffset=9" alt="jeiel85 productive coding time" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeiel85&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=C9D1D9&area=true&hide_border=true&title_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeiel85&bg_color=FFFFFF&color=24292F&line=8B5CF6&point=24292F&area=true&hide_border=true&title_color=24292F" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeiel85&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=C9D1D9&area=true&hide_border=true&title_color=C9D1D9" width="100%" alt="jeiel85 GitHub activity graph" />
 </picture>
 
 </div>
