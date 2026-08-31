@@ -1,5 +1,10 @@
 # 프로젝트 이력 관리 (jeiel85 Profile)
 
+## 2026-08-31
+- `github-readme-activity-graph` 공개 인스턴스가 402로 완전히 중단되어, 깨진 Activity Graph 섹션 제거.
+- 대체 위젯으로 `github-profile-summary-cards`의 productive-time 카드 추가 (다크: `tokyonight`, 라이트: `github_light`, `utcOffset=9`).
+- 업그레이드 드래프트 템플릿(`jeiel85-github-profile-upgrade/profile/README.template.md`)에서도 죽은 activity-graph 참조 제거.
+
 ## 2026-04-28
 - 초기 상태 확인: `github-profile-summary-cards`를 이용한 기본 통계 카드 적용 확인.
 - 프로젝트 이력 관리 파일(`HISTORY.md`) 생성.
