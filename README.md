@@ -71,20 +71,6 @@ Kotlin · Compose · C# · Flutter · Godot · AI coding agents
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=tokyonight&utcOffset=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=github_light&utcOffset=9" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeiel85&theme=tokyonight&utcOffset=9" alt="jeiel85 productive coding time" />
-</picture>
-
-</div>
-
-<br />
-
-<div align="center">
-
-
-
 <a href="https://github.com/jeiel85">
   <img src="https://komarev.com/ghpvc/?username=jeiel85&color=8B5CF6&style=flat-square&label=Profile+Views" alt="jeiel85 profile views" />
 </a>

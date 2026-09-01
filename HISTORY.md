@@ -1,5 +1,10 @@
 # 프로젝트 이력 관리 (jeiel85 Profile)
 
+## 2026-09-01
+- 메인 프로필 README에서 `github-profile-summary-cards`의 productive-time 카드(Commits UTC +9) 제거.
+  - 위젯은 정상 로드되나 데이터가 매우 희소(월간 소량 커밋)하여 거의 빈 차트처럼 보이는 깨진 영역으로 판단됨.
+  - 이번에는 대체 위젯을 넣지 않고 해당 섹션만 제거 (스네이크 → 방문자 카운터로 자연스럽게 연결).
+
 ## 2026-08-31
 - `github-readme-activity-graph` 공개 인스턴스가 402로 완전히 중단되어, 깨진 Activity Graph 섹션 제거.
 - 대체 위젯으로 `github-profile-summary-cards`의 productive-time 카드 추가 (다크: `tokyonight`, 라이트: `github_light`, `utcOffset=9`).
