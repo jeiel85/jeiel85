@@ -4,11 +4,11 @@
   </a>
 </div>
 
-<a href="https://github.com/jeiel85?tab=repositories&sort=stargazers">
+<a href="https://github.com/jeiel85">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false&title_color=8B5CF6&icon_color=8B5CF6&ring_color=8B5CF6&bg_color=0D1117&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false&title_color=8B5CF6&icon_color=8B5CF6&ring_color=8B5CF6&bg_color=FFFFFF&text_color=24292F" />
-    <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false&title_color=8B5CF6&icon_color=8B5CF6&ring_color=8B5CF6" alt="jeiel85 GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&background=0D1117&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&background=FFFFFF&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" />
+    <img align="right" width="420" src="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="jeiel85 GitHub contribution streak" />
   </picture>
 </a>
 
@@ -111,14 +111,6 @@
 ## 📈 Activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" />
-  <img src="https://streak-stats.demolab.com?user=jeiel85&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="jeiel85 GitHub contribution streak" />
-</picture>
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeiel85/jeiel85/output/github-snake-dark.svg" />
