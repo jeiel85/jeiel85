@@ -1,5 +1,14 @@
 # 프로젝트 이력 관리 (jeiel85 Profile)
 
+## 2026-11-28
+- 메인 프로필 README를 '프로필 메인' 구성으로 재정리(상단 capsule-render `jeiel85` 배너는 그대로 유지).
+  - 인사말·한 줄 소개(포트폴리오 `apps.json`의 tagline 기준)와 기존 신앙·가족·바이브코더 배지를 배너 아래에 묶음.
+  - 포트폴리오 버튼 옆에 shields.io 동적 배지(총 Stars, Followers) 추가.
+  - `About` 섹션 신설: 로컬 우선·가족 앱·신앙 도구·AI 에이전트·배포 습관.
+  - `Featured Projects` 섹션 신설: Android(Play 출시/비공개 테스트 상태 표기) · Windows · Games & Engines 표. 수동 큐레이션이므로 대표작이 바뀌면 같이 갱신 필요.
+  - 기술 스택을 실제 저장소 언어/도구 기준으로 교체(Nim·Elixir·C 제거, C#·.NET·Tauri·Three.js·Unity·Blender·Firebase·Cloudflare·Vercel 등 추가)하고 AI 에이전트 배지 행 추가.
+  - streak · snake · 방문자 카운터는 `Activity` 섹션으로 묶어 유지. Actions 워크플로 변경 없음.
+
 ## 2026-09-01
 - 메인 프로필 README에서 `github-profile-summary-cards`의 productive-time 카드(Commits UTC +9) 제거.
   - 위젯은 정상 로드되나 데이터가 매우 희소(월간 소량 커밋)하여 거의 빈 차트처럼 보이는 깨진 영역으로 판단됨.
