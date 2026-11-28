@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=260&section=header&text=jeiel85&fontSize=82&animation=fadeIn&fontAlign=80&fontAlignY=38&desc=Faith%20%C2%B7%20Family%20%C2%B7%20Code&descAlign=80&descAlignY=53" width="100%" alt="jeiel85 GitHub profile header" />
-
 ### 안녕하세요, jeiel85입니다 👋
 
 낮에는 **9 to 6 직장인**이자 **두 아들의 아빠**,<br />
@@ -91,10 +89,12 @@
 <br />
 <img src="https://skillicons.dev/icons?i=css,firebase,cloudflare,vercel,powershell,git,githubactions,windows&perline=8" alt="Infra & tools: CSS, Firebase, Cloudflare, Vercel, PowerShell, Git, GitHub Actions, Windows" />
 
+<p>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square" alt="Codex" />
 <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
 <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" />
+</p>
 
 </div>
 
