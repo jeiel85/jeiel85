@@ -1,37 +1,45 @@
 <div align="center">
-
-### 안녕하세요, jeiel85입니다 👋
-
-낮에는 **9 to 6 직장인**이자 **두 아들의 아빠**,<br />
-밤에는 **바이브코딩**으로 떠오른 아이디어를 끝까지 만들어 배포합니다.
-
-<p>
-  <img src="https://img.shields.io/badge/예수님을%20믿는-크리스챤-C0392B?style=for-the-badge" alt="예수님을 믿는 크리스챤" />
-  <img src="https://img.shields.io/badge/두%20아들-육아중인%20아빠-4A90D9?style=for-the-badge" alt="두 아들 육아중인 아빠" />
-  <img src="https://img.shields.io/badge/개발자-바이브코더-8E44AD?style=for-the-badge" alt="개발자 바이브코더" />
-</p>
-
-<a href="https://jeiel85.github.io">
-  <img src="https://img.shields.io/badge/📱_App_Portfolio-View_All_Apps-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="View the App Portfolio" />
-</a>
-<a href="https://github.com/jeiel85?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/jeiel85?affiliations=OWNER&style=for-the-badge&label=Stars&color=8B5CF6&labelColor=1a1a2e&logo=github" alt="jeiel85 total stars" />
-</a>
-<a href="https://github.com/jeiel85?tab=followers">
-  <img src="https://img.shields.io/github/followers/jeiel85?style=for-the-badge&label=Followers&color=8B5CF6&labelColor=1a1a2e&logo=github" alt="jeiel85 followers" />
-</a>
-
+  <a href="https://github.com/jeiel85">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=30&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+jeiel85+%F0%9F%91%8B;Faith+%C2%B7+Family+%C2%B7+Code;%EB%82%AE%EC%97%90%EB%8A%94+%EC%A7%81%EC%9E%A5%EC%9D%B8%2C+%EB%B0%A4%EC%97%90%EB%8A%94+%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%8D%94;%EB%A7%8C%EB%93%A4%EB%A9%B4+%EB%81%9D%EA%B9%8C%EC%A7%80%2C+%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80" alt="Hi, I'm jeiel85 — Faith · Family · Code" />
+  </a>
 </div>
 
-<br />
+<a href="https://github.com/jeiel85?tab=repositories&sort=stargazers">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false&title_color=8B5CF6&icon_color=8B5CF6&ring_color=8B5CF6&bg_color=0D1117&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false&title_color=8B5CF6&icon_color=8B5CF6&ring_color=8B5CF6&bg_color=FFFFFF&text_color=24292F" />
+    <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jeiel85&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false&title_color=8B5CF6&icon_color=8B5CF6&ring_color=8B5CF6" alt="jeiel85 GitHub stats" />
+  </picture>
+</a>
 
-## 🧭 About
+### 👋 안녕하세요, jeiel85입니다
 
-- 🔒 **로컬 우선 · 프라이버시 우선** — 데이터는 내 기기에, 서버가 필요하면 종단 암호화로 만듭니다.
-- 👨‍👩‍👦‍👦 **우리 가족이 먼저 쓰는 앱** — 가계부, 폰 찾기, 사진 월드컵처럼 집에서 실제로 필요한 것부터 만듭니다.
-- ✝️ **신앙과 코드** — 성경 읽기·연구, 설교 필기처럼 교회와 신앙생활을 돕는 도구도 꾸준히 만듭니다.
-- 🤖 **AI 코딩 에이전트와 함께** — 기획부터 Google Play·GitHub 릴리스까지 에이전트와 짝을 이뤄 끝까지 갑니다.
-- 📦 **만들면 배포까지** — 160개 넘는 공개 저장소, 포트폴리오에 정리된 앱·도구 50개 이상.
+> 낮에는 **9 to 6 직장인**이자 **두 아들의 아빠**,<br />
+> 밤에는 **바이브코딩**으로 떠오른 아이디어를 끝까지 만들어 배포합니다.
+
+- 🔭 가족이 함께 쓰는 앱 **[둥지](https://github.com/jeiel85/doran) · [포너디](https://github.com/jeiel85/find-my-wife-phone) · [Homebase](https://github.com/jeiel85/homebase)** 를 Play 비공개 테스트로 다듬고 있습니다.
+- 📱 **[Markleaf](https://github.com/jeiel85/markleaf-android) · [BrioDo](https://github.com/jeiel85/briodo-android) · [Lumina Daily](https://github.com/jeiel85/lumina-daily-android)** 를 Google Play에 출시했습니다.
+- 🕹️ 1995년 고전 게임 **[영걸전](https://github.com/jeiel85/eiketsuden-reloaded) · [Mine Bombers](https://github.com/jeiel85/minebombers-reloaded)** 를 지금의 OS에서 되살리는 엔진을 만듭니다.
+- 🤖 Claude Code · Codex와 짝을 이뤄 기획부터 릴리스까지 끝까지 갑니다.
+- 📫 앱과 도구는 모두 **[App Portfolio](https://jeiel85.github.io)** 에 모아 두었습니다.
+
+<p>
+  <img src="https://img.shields.io/badge/예수님을%20믿는-크리스챤-C0392B?style=flat-square" alt="예수님을 믿는 크리스챤" />
+  <img src="https://img.shields.io/badge/두%20아들-육아중인%20아빠-4A90D9?style=flat-square" alt="두 아들 육아중인 아빠" />
+  <img src="https://img.shields.io/badge/개발자-바이브코더-8E44AD?style=flat-square" alt="개발자 바이브코더" />
+  <br />
+  <a href="https://jeiel85.github.io"><img src="https://img.shields.io/badge/📱_App_Portfolio-View_All_Apps-8B5CF6?style=flat-square&labelColor=1a1a2e" alt="View the App Portfolio" /></a>
+  <a href="https://github.com/jeiel85?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/jeiel85?affiliations=OWNER&style=flat-square&label=Stars&color=8B5CF6&labelColor=1a1a2e&logo=github" alt="jeiel85 total stars" /></a>
+  <a href="https://github.com/jeiel85?tab=followers"><img src="https://img.shields.io/github/followers/jeiel85?style=flat-square&label=Followers&color=8B5CF6&labelColor=1a1a2e&logo=github" alt="jeiel85 followers" /></a>
+</p>
+
+<br clear="right" />
+
+## 🧭 What I Care About
+
+| 🔒 로컬 우선 · 프라이버시 | 👨‍👩‍👦‍👦 가족이 먼저 쓰는 앱 | ✝️ 신앙과 코드 |
+| --- | --- | --- |
+| 데이터는 내 기기에 두고, 서버가 필요하면 종단 암호화로 만듭니다. | 가계부, 폰 찾기, 사진 월드컵처럼 집에서 실제로 필요한 것부터 만듭니다. | 성경 읽기·연구, 설교 필기처럼 신앙생활을 돕는 도구도 꾸준히 만듭니다. |
 
 <br />
 
