@@ -91,10 +91,8 @@
 <br />
 <img src="https://skillicons.dev/icons?i=css,firebase,cloudflare,vercel,powershell,git,githubactions,windows&perline=8" alt="Infra & tools: CSS, Firebase, Cloudflare, Vercel, PowerShell, Git, GitHub Actions, Windows" />
 
-<br /><br />
-
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Codex-000000?style=flat-square" alt="Codex" />
+<img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square" alt="Codex" />
 <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
 <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" />
 
