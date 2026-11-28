@@ -1,6 +1,11 @@
 # 프로젝트 이력 관리 (jeiel85 Profile)
 
 ## 2026-11-28
+- 상단(hero) 재구성 — 유명 프로필의 흔한 패턴(타이핑 헤드라인 · 좌측 소개 + 우측 카드 · '지금 하는 일' 불릿)을 참고.
+  - `readme-typing-svg`(demolab) 타이핑 헤드라인 추가.
+  - 좌측: 인사말 인용구 + 지금 하는 일 불릿 5줄 + flat-square 배지. 우측: streak 카드(`align="right"`), `<br clear="right" />`로 float 해제. Activity의 중복 streak 카드는 제거.
+  - 공식 `github-readme-stats` 카드는 첫 렌더가 5초 이상 걸려 GitHub camo(4초 제한)에서 504로 깨지는 것을 확인해 쓰지 않음.
+  - About을 `What I Care About` 3열 표로 압축(AI·배포 항목은 hero 불릿으로 이동).
 - 상단 capsule-render `jeiel85 · Faith · Family · Code` 배너 제거(인사말로 바로 시작).
 - Tech Stack의 AI 에이전트·Google Play 배지를 `<p>`로 감싸 아이콘 아래 새 줄에 오도록 수정(넓은 화면에서 마지막 아이콘 줄 옆에 붙던 문제).
 - 메인 프로필 README를 '프로필 메인' 구성으로 재정리(상단 capsule-render `jeiel85` 배너는 그대로 유지).
