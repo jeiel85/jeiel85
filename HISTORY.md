@@ -1,6 +1,8 @@
 # 프로젝트 이력 관리 (jeiel85 Profile)
 
 ## 2026-11-28
+- 상단 capsule-render `jeiel85 · Faith · Family · Code` 배너 제거(인사말로 바로 시작).
+- Tech Stack의 AI 에이전트·Google Play 배지를 `<p>`로 감싸 아이콘 아래 새 줄에 오도록 수정(넓은 화면에서 마지막 아이콘 줄 옆에 붙던 문제).
 - 메인 프로필 README를 '프로필 메인' 구성으로 재정리(상단 capsule-render `jeiel85` 배너는 그대로 유지).
   - 인사말·한 줄 소개(포트폴리오 `apps.json`의 tagline 기준)와 기존 신앙·가족·바이브코더 배지를 배너 아래에 묶음.
   - 포트폴리오 버튼 옆에 shields.io 동적 배지(총 Stars, Followers) 추가.
